@@ -49,3 +49,7 @@
 
 [pull]
   rebase = false
+  
+[user]
+	email = vee.hole77@hotmail.com
+	name = Vee Hole
